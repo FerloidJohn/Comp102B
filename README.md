@@ -34,7 +34,7 @@
     <ul>
         <li>Patisoy</li>
         <li>Matug</li>
-        <li><a href="https://www.youtube.com/watch?v=cOge3jwfo00Mangape</a></li>
+        <li>Kape Lover</li>
     </ul>
     <h3>My Hobbies:</h3>
     <ol>
