@@ -40,7 +40,7 @@
     <ol>
         <li><a href="https://youtu.be/ZTCKsIzUlrw?si=XKChn8YI28MCTBaC">Playing Online Games</a></li>
         <li><a href="https://www.youtube.com/watch?v=KrrWC-GR1ow">Playing Basketball</a></li>
-        <li><a href="https://www.youtube.com/shorts/UdAFc-_6mO4)">Watching Anime</a></li>
+        <li><a href="https://www.youtube.com/shorts/PZtUFbj1AsE">Watching Anime</a></li>
     </ol>
     <h3>Work Experience:</h3>
     <table border="1">
