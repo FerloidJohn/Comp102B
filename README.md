@@ -61,7 +61,7 @@
     <table border="1">
         <tr>
             <td>Typing</td>
-            <td>⭐⭐</td>
+            <td>⭐⭐⭐⭐</td>
         </tr>
         <tr>
             <td>Installing OS</td>
