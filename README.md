@@ -47,7 +47,7 @@
     <table border="1">
         <tr>
             <th>Date</th>
-            <th>School</th>
+             <th>School</th>
         <tr>
             <td>2022-2023</td>
             <td>Domingo Ledesma Mapa High School</td>
