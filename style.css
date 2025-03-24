@@ -1,28 +1,21 @@
 
 body {
- background-color: rgb(235, 21, 21) ;
+    background-color: rgb(235, 135, 205);
 }
-  
+
+
 h1 {
-color: blue;
+    color: #666cbf8f;
 }
- 
+
 h3 {
-color: aqua;
-} 
- 
-hr {
-    border-style: hidden;
-    border-top-style:dashed;
-    border-color: blueviolet;
-    border-width: 5px;
-    width: 10%;
+    color: #66bf6d;
 }
 
-
-
-
-
-
-
-
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
