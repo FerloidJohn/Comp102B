@@ -1,16 +1,13 @@
-h1 {
-    color: red;
-    font-size: 100px;
-}
-
-img {
-    background-color: rgb(252, 3, 3);
-}
-
-.bacon {
-    background-color: rgb(0, 180, 235);
-}
-
-.broccoli {
-    background-color: red;
+body{
+    body {
+        margin: 0;
+    }
+    
+    h1  {
+    margin-top: 0;
+    }
+    
+    div {
+        background-color: rgba(255, 205, 68, 0.6);
+    }
 }
